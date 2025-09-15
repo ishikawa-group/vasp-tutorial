@@ -1,6 +1,6 @@
 # Summary
 
-## VASP how to
+## VASP tutorial
 * [Introduction](./README.md)
 * [Energy calculation of molecules](./markdown/english/energy_molecule.md)
 * [Energy calculation of bulk](./markdown/english/energy_bulk.md)
