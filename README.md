@@ -2,7 +2,7 @@
 ## Introduction
 * This repository is for those who want to learn the DFT (density functional theory) calculations using VASP.
 * VASP stands for Vienna ab initio simulation package, and it is the software package to do the DFT calculation with plane-wave basis set.
-* The webpage: https://ishikawa-group.github.io/vasp_tutorial/
+* The webpage: https://ishikawa-group.github.io/vasp-tutorial/
 
 ## Contents
 1. [Linux (jumps to a file in other repository)](https://github.com/ishikawa-group/gaussian_tutorial/blob/main/linux.md)
